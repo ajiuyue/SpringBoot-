@@ -29,7 +29,6 @@ public class CommentServiceImpl implements CommentService {
         PageHelper.startPage(page,size);
         //在mysql中分页 limit,在下面查询sql中拼接
         CommentExample example = new CommentExample();
-        example.isDistinct();
         List<Comment> list = commentMapper.selectByExampleWithRowbounds(example, new RowBounds(page, size));
         //获取分页信息
         PageInfo<Comment> pageInfoCommentList = new PageInfo<>(list);
