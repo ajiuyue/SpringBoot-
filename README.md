@@ -48,6 +48,7 @@
 27. [Spring Boot 中的异步调用](https://note.youdao.com/)
 28. [Spring Boot 整合Kafka](https://note.youdao.com/)
 29. [Spring Boot整合Mongo DB](https://note.youdao.com/)
+30. [Spring Boot+Mybatis+分页插件+Bootstrap+Thymeleaf](https://github.com/ajiuyue/SpringBoot-/blob/master/springboot-mybatis-bootstrap-table/Spring%20Boot%2BMybatis%2B%E5%88%86%E9%A1%B5%E6%8F%92%E4%BB%B6%2BBootstrap%2BThymeleaf.md)
 
 
 
