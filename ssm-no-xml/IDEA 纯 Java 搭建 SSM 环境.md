@@ -308,3 +308,5 @@ public class SpringMVCConfig extends WebMvcConfigurationSupport {
 ```
 
 然后，就可以在接口中直接返回 JSON 了，此时的 JSON 数据将通过 fastjson 生成。
+
+源码链接：https://github.com/ajiuyue/SpringBoot-/tree/master/ssm-no-xml

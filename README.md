@@ -49,6 +49,7 @@
 28. [Spring Boot 整合Kafka](https://note.youdao.com/)
 29. [Spring Boot整合Mongo DB](https://note.youdao.com/)
 30. [Spring Boot+Mybatis+分页插件+Bootstrap+Thymeleaf](https://github.com/ajiuyue/SpringBoot-/blob/master/springboot-mybatis-bootstrap-table/Spring%20Boot%2BMybatis%2B%E5%88%86%E9%A1%B5%E6%8F%92%E4%BB%B6%2BBootstrap%2BThymeleaf.md)
+30. [IDEA 纯 Java 搭建 SSM 环境](https://github.com/ajiuyue/SpringBoot-/blob/master/ssm-no-xml/IDEA%20%E7%BA%AF%20Java%20%E6%90%AD%E5%BB%BA%20SSM%20%E7%8E%AF%E5%A2%83.md)
 
 
 
