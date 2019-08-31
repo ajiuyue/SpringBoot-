@@ -53,6 +53,9 @@
 30. [SpringBoot整合Layui前端框架简单学习示例](https://github.com/ajiuyue/SpringBoot-/blob/master/springboot-layui/SpringBoot%E6%95%B4%E5%90%88Layui%E5%AD%A6%E4%B9%A0%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6Layui.md)
 
 
+# ![文档管理.png](https://i.loli.net/2019/08/15/kysi91pjuMn2UTL.png) SpringBoot+Dubbo学习
+
+1. [Spring Boot整合Dubbo简单的Demo](https://github.com/ajiuyue/SpringBoot-/tree/master/springboot-dubbo-zookeeper/dubbo-boot)
 
 
 # ![文档管理.png](https://i.loli.net/2019/08/15/kysi91pjuMn2UTL.png) Java容器
