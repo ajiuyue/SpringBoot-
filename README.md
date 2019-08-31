@@ -55,7 +55,7 @@
 
 # ![文档管理.png](https://i.loli.net/2019/08/15/kysi91pjuMn2UTL.png) SpringBoot+Dubbo学习
 
-1. [Spring Boot整合Dubbo简单的Demo](https://github.com/ajiuyue/SpringBoot-/tree/master/springboot-dubbo-zookeeper/dubbo-boot)
+1. [Spring Boot整合Dubbo简单的Demo](https://github.com/ajiuyue/SpringBoot-/blob/master/springboot-dubbo-zookeeper/Spring%20Boot%E6%95%B4%E5%90%88Dubbo%26Zookeeper.md)
 
 
 # ![文档管理.png](https://i.loli.net/2019/08/15/kysi91pjuMn2UTL.png) Java容器
