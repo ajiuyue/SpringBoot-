@@ -51,6 +51,7 @@
 30. [Spring Boot+Mybatis+分页插件+Bootstrap+Thymeleaf](https://github.com/ajiuyue/SpringBoot-/blob/master/springboot-mybatis-bootstrap-table/Spring%20Boot%2BMybatis%2B%E5%88%86%E9%A1%B5%E6%8F%92%E4%BB%B6%2BBootstrap%2BThymeleaf.md)
 30. [IDEA 纯 Java 搭建 SSM 环境](https://github.com/ajiuyue/SpringBoot-/blob/master/ssm-no-xml/IDEA%20%E7%BA%AF%20Java%20%E6%90%AD%E5%BB%BA%20SSM%20%E7%8E%AF%E5%A2%83.md)
 30. [SpringBoot整合Layui前端框架简单学习示例](https://github.com/ajiuyue/SpringBoot-/blob/master/springboot-layui/SpringBoot%E6%95%B4%E5%90%88Layui%E5%AD%A6%E4%B9%A0%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6Layui.md)
+30. [MyBatis-Plus简单学习示例](https://github.com/ajiuyue/SpringBoot-/blob/master/springboot-mybatisplus/SpringBoot%2BMybatisPlus.md)
 
 
 # ![文档管理.png](https://i.loli.net/2019/08/15/kysi91pjuMn2UTL.png) SpringBoot+Dubbo学习

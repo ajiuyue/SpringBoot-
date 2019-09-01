@@ -1,6 +1,8 @@
 server:
   port: 8081
 dubbo:
+  monitor:
+    protocol: registry
   application:
     # 服务名称，保持唯一
     name: server-provider
