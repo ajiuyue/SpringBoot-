@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73543bfa-fed6-458f-a94c-82a8d8f1fd19" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../common-api/dubbo-admin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../common-api/dubbo-monitor-simple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../common-api/dubbo-ops.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../common-api/dubbo-registry-simple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../springboot-mybatisplus/SpringBoot+MybatisPlus.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../springboot-mybatisplus/src/main/java/cn/jiuyue/springbootmybatisplus/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../springboot-mybatisplus/src/main/java/cn/jiuyue/springbootmybatisplus/mapper/UserMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server-consumer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server-consumer/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server-consumer/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/server-consumer/target/classes/application.yml" afterDir="false" />

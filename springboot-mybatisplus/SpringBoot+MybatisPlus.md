@@ -39,7 +39,7 @@ INSERT INTO user (id, name, age, email) VALUES
 ```
 
 #### 初始化工程
-创建一个空的 Spring Boot 工程（工程将以 H2 作为默认数据库进行演示）
+创建一个空的 Spring Boot 工程（工程将以 Mysql 作为默认数据库进行演示）
 
 可以使用 Spring Initializer 快速初始化一个 Spring Boot 工程
 
@@ -75,10 +75,9 @@ INSERT INTO user (id, name, age, email) VALUES
         <artifactId>mybatis-plus-boot-starter</artifactId>
         <version>3.2.0</version>
     </dependency>
-    <dependency>
-        <groupId>com.h2database</groupId>
-        <artifactId>h2</artifactId>
-        <scope>runtime</scope>
+            <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
     </dependency>
 </dependencies>
 ```
