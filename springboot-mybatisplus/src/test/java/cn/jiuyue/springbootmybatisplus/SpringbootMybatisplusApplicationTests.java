@@ -23,4 +23,22 @@ public class SpringbootMybatisplusApplicationTests {
         List<User> userList = userMapper.selectList(null);
         userList.forEach(System.out::println);
     }
+
+    @Test
+    public void testInsert() {
+        User user = new User();
+        user.setAge(18);
+        user.setName("aaabb");
+        user.setEmail("163@163.com");
+        int insert = userMapper.insert(user);
+        System.out.println(insert);
+    }
+
+    @Test
+    public void testUpdate() {
+        User user = new User();
+        user.setId(3L);
+        user.setEmail("163@163.com");
+        userMapper.updateById(user);
+}
 }
